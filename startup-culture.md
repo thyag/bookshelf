@@ -76,3 +76,9 @@ by David H Maister
 * 978-0470876411
 
 explains the business model canvas, also available from http://businessmodelgeneration.com/
+
+## The Startup Checklist: 25 Steps to a Scalable, High-Growth Business
+by David Rose
+
+## The Startup Owner's Manual: The Step-By-Step Guide for Building a Great Company
+by Steve Blank
